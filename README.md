@@ -2,9 +2,11 @@
 
 
 **Introduction**
+
 This data set explains about various branch sales income and gross margin percentage. The data set contain information about product mapping , city mapping,and customer specifications we are going to use python to handle this data set
 
 **Variables used in this data set are:**
+
 Invoice id: Computer generated sales slip invoice identification number Branch: Branch of supercenter (3 branches are available identified by A, B and C).
 
 City: Location of supercenters
